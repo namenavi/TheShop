@@ -1,11 +1,6 @@
-
-using AutoMapper;
 using FeedbackService.Api;
-using FeedbackService.Api.DTO;
 using FeedbackService.BLL;
-using FeedbackService.BLL.DTO;
 using FeedbackService.BLL.Interfaces;
-using FeedbackService.DAL.DTO;
 using FeedbackService.DAL.Interfaces;
 using FeedbackService.DAL.Repositories;
 
